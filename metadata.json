@@ -1,0 +1,7 @@
+{
+  "name": "Trợ lý ôn thi TN THPT môn Tin học",
+  "description": "Ứng dụng hỗ trợ học tập và ôn thi tốt nghiệp THPT 2025 môn Tin học (định hướng ICT) theo chương trình GDPT 2018 cho khối 10, 11 và 12.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
